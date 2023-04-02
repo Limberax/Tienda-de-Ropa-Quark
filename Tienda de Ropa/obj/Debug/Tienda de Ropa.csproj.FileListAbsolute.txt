@@ -1,0 +1,10 @@
+C:\Users\lucho\Desktop\Desarrollo de Videojuegos\QuarkAcademy\OOP\Tienda de Ropa\Tienda de Ropa\obj\Debug\Tienda de Ropa.csproj.AssemblyReference.cache
+C:\Users\lucho\Desktop\Desarrollo de Videojuegos\QuarkAcademy\OOP\Tienda de Ropa\Tienda de Ropa\obj\Debug\Tienda_de_Ropa.Form1.resources
+C:\Users\lucho\Desktop\Desarrollo de Videojuegos\QuarkAcademy\OOP\Tienda de Ropa\Tienda de Ropa\obj\Debug\Tienda_de_Ropa.Properties.Resources.resources
+C:\Users\lucho\Desktop\Desarrollo de Videojuegos\QuarkAcademy\OOP\Tienda de Ropa\Tienda de Ropa\obj\Debug\Tienda de Ropa.csproj.GenerateResource.cache
+C:\Users\lucho\Desktop\Desarrollo de Videojuegos\QuarkAcademy\OOP\Tienda de Ropa\Tienda de Ropa\obj\Debug\Tienda de Ropa.csproj.CoreCompileInputs.cache
+C:\Users\lucho\Desktop\Desarrollo de Videojuegos\QuarkAcademy\OOP\Tienda de Ropa\Tienda de Ropa\bin\Debug\Tienda de Ropa.exe.config
+C:\Users\lucho\Desktop\Desarrollo de Videojuegos\QuarkAcademy\OOP\Tienda de Ropa\Tienda de Ropa\bin\Debug\Tienda de Ropa.exe
+C:\Users\lucho\Desktop\Desarrollo de Videojuegos\QuarkAcademy\OOP\Tienda de Ropa\Tienda de Ropa\bin\Debug\Tienda de Ropa.pdb
+C:\Users\lucho\Desktop\Desarrollo de Videojuegos\QuarkAcademy\OOP\Tienda de Ropa\Tienda de Ropa\obj\Debug\Tienda de Ropa.exe
+C:\Users\lucho\Desktop\Desarrollo de Videojuegos\QuarkAcademy\OOP\Tienda de Ropa\Tienda de Ropa\obj\Debug\Tienda de Ropa.pdb
